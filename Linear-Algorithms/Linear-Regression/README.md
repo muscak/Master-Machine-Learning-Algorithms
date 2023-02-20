@@ -22,3 +22,10 @@ Then it predicts using the line equation mentioed above.
 ## Ordinary Least Squares
 
 ## Gradient Desce
+
+
+An error score can be used as a metric called Root Mean Squeared Error (RMSE) to measure the performance of the predictions. 
+
+$$ RMSE = \sqrt{\frac{\sum\limits_{i=1}^{n} (p_i - y_i)^2}{n}} $$
+
+where $p_i$ is the predicted value and $y_i$ is the actual value.
