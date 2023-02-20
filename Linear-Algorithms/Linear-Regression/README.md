@@ -17,7 +17,7 @@ $$\beta_1 = \dfrac{\sum\limits_{i=1}^{n} ((x_i - mean(x) × (y_i - mean(y))}{\su
 
 $$\beta_0 = mean(y) − \beta_1 × mean(x)$$
 
-Then it's predicted using the line equation mentioed above.
+Then it predicts using the line equation mentioed above.
 
 ## Ordinary Least Squares
 
