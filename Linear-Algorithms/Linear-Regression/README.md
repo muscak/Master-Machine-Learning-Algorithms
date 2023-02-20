@@ -21,7 +21,7 @@ Then it predicts using the line equation mentioed above.
 
 ## Ordinary Least Squares
 
-## Gradient Desce
+## Gradient Descent
 
 
 An error score can be used as a metric called Root Mean Squeared Error (RMSE) to measure the performance of the predictions. 
