@@ -7,7 +7,9 @@ TV Marketing on [Kaggle](https://www.kaggle.com/datasets/devzohaib/tvmarketingcs
 ## Simple Linear Regression
 It has a single input $(x)$ and the relation is represented by a line. 
 
-$$y = \beta_0 + \beta_1×x$$(my_other_label)
+$$
+  y = \beta_0 + \beta_1×x
+$$ (1)
 
 In higher dimensions when we have more than one input $(x)$, the line is called a **plane** or a **hyperplane**.
 
