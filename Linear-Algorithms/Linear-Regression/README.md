@@ -13,6 +13,8 @@ $$\beta_1 = \frac{\sum_{i=1}^{n} ((x_i - mean(x) * (y_i - mean(y))}{\sum_{i=1}^{
 
 $$\beta_0 = mean(y) − \beta_1 × mean(x)$$
 
+$$\sum_{i=1}^{n}$$
+
 ## Ordinary Least Squares
 
 ## Gradient Desce
