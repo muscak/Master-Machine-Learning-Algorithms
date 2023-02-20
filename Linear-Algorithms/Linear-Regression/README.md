@@ -9,7 +9,7 @@ TV Marketing on [Kaggle](https://www.kaggle.com/datasets/devzohaib/tvmarketingcs
 
 $$y = \beta_0 + \beta_1*x$$
 
-$$\beta_1 = {\sum_{i=1}^n ((x_i - mean(x) * (y_i - mean(y))} \ {\sum_{i=1}^{n} (x_i - mean(x))^2}$$
+$$\beta_1 = \frac{\sum_{i=1}^n ((x_i - mean(x) * (y_i - mean(y))}  {\sum_{i=1}^{n} (x_i - mean(x))^2}$$
 
 $$\beta_0 = mean(y) − \beta_1 × mean(x)$$
 
