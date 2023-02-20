@@ -7,9 +7,9 @@ TV Marketing on [Kaggle](https://www.kaggle.com/datasets/devzohaib/tvmarketingcs
 
 ## Simple Linear Regression
 
-$$y = \beta_0 + \beta_1*x$$
+$$y = \beta_0 + \beta_1×x$$
 
-$$\beta_1 = \dfrac{\sum\limits_{i=1}^{n} ((x_i - mean(x) * (y_i - mean(y))}{\sum\limits_{i=1}^{n} (x_i - mean(x))^2}$$
+$$\beta_1 = \dfrac{\sum\limits_{i=1}^{n} ((x_i - mean(x) × (y_i - mean(y))}{\sum\limits_{i=1}^{n} (x_i - mean(x))^2}$$
 
 $$\beta_0 = mean(y) − \beta_1 × mean(x)$$
 
