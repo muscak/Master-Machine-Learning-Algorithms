@@ -3,7 +3,7 @@
 This is to practice the machine learning algorithms mentioned in the book [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/) by Jason Brownlee.
 
 * [Linear Algorithms](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms)
-  * Linear Regression
+  * [Linear Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Linear-Regression)
   * Logistic Regression
   * Linear Discriminant Analysis
 * Nonlinear Algorithms
