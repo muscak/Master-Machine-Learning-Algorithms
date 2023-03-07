@@ -5,3 +5,5 @@ In regression analysis, logistic regression[[1]](https://jamanetwork.com/journal
 Logistic regression uses an equation as the representation, very much like linear regression.
 
 $$\hat{y}=\frac{e^{b_0+b_1×x}}{1 + e^{b_0+b_1×x}}$$
+
+The purpose of this study is to have knowledge on how Logistic Regression works.
