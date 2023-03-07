@@ -4,7 +4,7 @@ This is to practice the machine learning algorithms mentioned in the book [Maste
 
 * [Linear Algorithms](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms)
   * [Linear Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Linear-Regression)
-  * Logistic Regression
+  * [Logistic Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Logistic-Regression)
   * Linear Discriminant Analysis
 * Nonlinear Algorithms
   * Classification and Regression Trees
