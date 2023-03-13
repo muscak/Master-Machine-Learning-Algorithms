@@ -6,4 +6,6 @@ Decision tree learning is a non-parametric supervised learning approach used in 
 
 Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees[[2]](https://en.wikipedia.org/wiki/Decision_tree_learning).
 
+Decision trees are effective because they are easy to read, powerful even with messy data, and computationally cheap to deploy once after training but expensive to train. They carry a big risk of overfitting, and tend to find local optima because they can’t go back after they have made a split [[3]](https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf).
+
 
