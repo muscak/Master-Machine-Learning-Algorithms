@@ -1,6 +1,6 @@
 # Classification and Regression Trees
 
-<img src='decision-tree-iris.png' align='right' width=250 />
+<img src='decision-tree-iris.png' align='right' width=300 />
 
 Decision tree learning is a non-parametric supervised learning approach used in statistics, data mining and machine learning. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features[[1]](https://scikit-learn.org/stable/modules/tree.html). In this formalism, a classification or regression decision tree is used as a predictive model to draw conclusions about a set of observations.
 
