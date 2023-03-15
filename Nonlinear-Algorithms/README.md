@@ -5,3 +5,4 @@
 * Gaussian Naive Bayes
 * k-Nearest Neighbors
 * Learning Vector Quantization
+* Support Vector Machines
