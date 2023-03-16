@@ -1,6 +1,6 @@
 # Naive Bayes
 
-**Calculate Class Probabilities**
+##Calculate Class Probabilities
 
 The probabilities of each class in the training dataset.
 
@@ -8,7 +8,7 @@ $$P(class = 1) = \frac{count(class=1)}{count(class=0) + count(class=1)}$$
 
 $$P(class = 0) = \frac{count(class=0)}{count(class=0) + count(class=1)}$$
 
-**Calculate Conditional Probabilities** 
+##Calculate Conditional Probabilities 
 
 The conditional probabilities of each feature value given each class value.
 
