@@ -1,5 +1,7 @@
 # Naive Bayes
 
+Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable[1].
+
 ## Calculate Class Probabilities
 
 The probabilities of each class in the training dataset.
@@ -19,6 +21,9 @@ $$P(y = i|x_1, x_2, …, x_p) = \frac{P(y = i)P(x_1 | y = i)…P(x_p | y = i)}{P
 
 
 ## References
+
+[1] [Scikit-Learn](https://scikit-learn.org/stable/modules/naive_bayes.html#multinomial-naive-bayes)
+
 [2] [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
 
 [3] [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
