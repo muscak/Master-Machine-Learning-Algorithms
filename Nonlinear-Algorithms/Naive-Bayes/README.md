@@ -1,6 +1,6 @@
 # Naive Bayes
 
-Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable[1].
+Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable[1]. Naive Bayes is a very simple classification algorithm that makes some strong assumptions about the independence of each input variable [2].
 
 ## Calculate Class Probabilities
 
