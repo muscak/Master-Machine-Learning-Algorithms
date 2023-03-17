@@ -2,7 +2,7 @@
 
 <img src='Naive-Bayes.png' align='right' width=450/>
 Naive Bayes methods are a set of supervised learning algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of features given the value of the class variable[1]. Naive Bayes is a very simple classification algorithm that makes some strong assumptions about the independence of each input variable [2].
-<br \><br \><br \><br \>
+<br \><br \><br \><br \><br \>
 
 ### Calculate Class Probabilities
 
@@ -17,9 +17,6 @@ $$P(class = 0) = \frac{count(class=0)}{count(class=0) + count(class=1)}$$
 The conditional probabilities of each feature value given each class value.
 
 $$P(y = i|x_1, x_2, …, x_p) = \frac{P(y = i)P(x_1 | y = i)…P(x_p | y = i)}{P(y = 0)P(x_1 | y = 0)…P(x_p | y = 0) + P(y = 1)P(x_1 | y = 1)…P(x_p | y = 1)}$$
-
-
-# Gaussian Naive Bayes
 
 
 ## References
