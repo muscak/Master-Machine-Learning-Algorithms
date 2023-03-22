@@ -4,6 +4,8 @@
 
 Gaussian Naive Bayes assumes that each parameter (also called features or predictors) has an independent capacity of predicting the output variable. The combination of the prediction for all parameters is the final prediction, that returns a probability of the dependent variable to be classified in each group. The final classification is assigned to the group with the higher probability [1].
 
+This is the extention of Naive Bayes which allows us working with real-valued attributes by assuming them in Gaussian (Normal) distribution which is the easiest to work with because you only need to estimate the mean and the standard deviation from your training data [2].
+
 $$pdf(x, \mu, \sigma) = \frac{1}{\sqrt{2 \times \pi} \times \sigma} \times e^-(\frac{(x-\mu)^2}{2 \times \sigma^2})$$
 
 
@@ -11,6 +13,6 @@ $$pdf(x, \mu, \sigma) = \frac{1}{\sqrt{2 \times \pi} \times \sigma} \times e^-(\
 
 [1] [Gaussian Naive Bayes Explained and Hands-On with Scikit-Learn](https://pub.towardsai.net/gaussian-naive-bayes-explained-and-hands-on-with-scikit-learn-4183b8cb0e4c)
 
-[Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+[2] [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
 
-[Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
+[Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
