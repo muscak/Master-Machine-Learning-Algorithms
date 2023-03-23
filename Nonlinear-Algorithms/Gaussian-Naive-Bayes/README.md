@@ -10,6 +10,24 @@ $$pdf(x, \mu, \sigma) = \frac{1}{\sigma \times \sqrt{2 \times \pi}} \times e^{-(
 
 Where $pdf(x)$ is the Gaussian PDF, $\mu$ and $\sigma$ are the mean and standard deviation calculated, $\pi$ is the numerical constant PI, $e$ is the numerical constant Euler’s number raised to power and $x$ is the input value for the input variable.
 
+There are 2 steps to apply Gaussian Naive Bayes as regular Naive Bayes. Those are:
+1. Calculating the probabilities for each class
+2. Calculating the conditional probabilities but this time using the Gaussian Probability Density Function (PDF).
+
+## 1. Calculate Class Probabilities
+
+The probabilities of each class in the training dataset.
+
+$$P(class = 1) = \frac{count(class=1)}{count(class=0) + count(class=1)}$$
+
+$$P(class = 0) = \frac{count(class=0)}{count(class=0) + count(class=1)}$$
+
+## 2. Calculate Conditional Probabilities 
+
+The conditional probabilities of each feature value given each class value using Gaussian PDF.
+
+$$y_i = P(pdf(x_1) | y = i)... \times ...P(pdf(x_p) | y = i) \times P(y = i)$$
+
 
 ---
 
