@@ -6,7 +6,7 @@ Gaussian Naive Bayes assumes that each parameter (also called features or predic
 
 This is the extention of Naive Bayes which allows us working with real-valued attributes by assuming them in Gaussian (Normal) distribution which is the easiest to work with because you only need to estimate the mean and the standard deviation from your training data [2].
 
-$$pdf(x, \mu, \sigma) = \frac{1}{\sqrt{2 \times \pi} \times \sigma} \times e^-(\frac{(x-\mu)^2}{2 \times \sigma^2})$$
+$$pdf(x, \mu, \sigma) = \frac{1}{\sigma \times \sqrt{2 \times \pi}} \times e^{-(\frac{(x-\mu)^2}{2 \times \sigma^2})}$$
 
 Where $pdf(x)$ is the Gaussian PDF, $\mu$ and $\sigma$ are the mean and standard deviation calculated, $\pi$ is the numerical constant PI, $e$ is the numerical constant Euler’s number raised to power and $x$ is the input value for the input variable.
 
