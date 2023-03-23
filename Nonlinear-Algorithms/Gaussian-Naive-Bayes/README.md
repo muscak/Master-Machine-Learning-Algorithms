@@ -18,9 +18,8 @@ There are 2 steps to apply Gaussian Naive Bayes as regular Naive Bayes. Those ar
 
 The probabilities of each class in the training dataset.
 
-$$P(class = 1) = \frac{count(class=1)}{count(class=0) + count(class=1)}$$
+$$P(y = i) = \frac{count(y=i)}{count(y)}$$
 
-$$P(class = 0) = \frac{count(class=0)}{count(class=0) + count(class=1)}$$
 
 ## 2. Calculate Conditional Probabilities 
 
