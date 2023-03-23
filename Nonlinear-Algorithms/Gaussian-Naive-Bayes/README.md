@@ -8,6 +8,8 @@ This is the extention of Naive Bayes which allows us working with real-valued at
 
 $$pdf(x, \mu, \sigma) = \frac{1}{\sqrt{2 \times \pi} \times \sigma} \times e^-(\frac{(x-\mu)^2}{2 \times \sigma^2})$$
 
+Where $pdf(x)$ is the Gaussian PDF, $\mu$ and $\sigma$ are the mean and standard deviation calculated, $\pi$ is the numerical constant PI, $e$ is the numerical constant Euler’s number raised to power and $x$ is the input value for the input variable.
+
 
 ---
 
