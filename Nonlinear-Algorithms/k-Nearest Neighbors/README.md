@@ -1,4 +1,4 @@
-# k-Nearest Neighbors
+# *k*-Nearest Neighbors
 
 <img src='0417red_WinInsider.jpeg' align='right' width=450/>
 
