@@ -2,7 +2,7 @@
 
 <img src='0417red_WinInsider.jpeg' align='right' width=450/>
 
-In statistics, the k-nearest neighbors algorithm (k-NN) is a non-parametric supervised learning method first developed by Evelyn Fix and Joseph Hodges in 1951,[1] and later expanded by Thomas Cover.[2] It is used for classification and regression. In both cases, the input consists of the k closest training examples in a dataset[3].
+In statistics, the k-nearest neighbors algorithm (*k*-NN) is a non-parametric supervised learning method first developed by Evelyn Fix and Joseph Hodges in 1951,[1] and later expanded by Thomas Cover.[2] It is used for classification and regression. In both cases, the input consists of the k closest training examples in a dataset[3].
 
 $$Euclidean Distance (a,b) = \sqrt{\sum_{i=1}^{n}(a_i - b_I)^2}$$
 
