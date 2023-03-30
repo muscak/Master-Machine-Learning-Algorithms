@@ -10,7 +10,7 @@ This is to practice the machine learning algorithms mentioned in the book [Maste
   * [Classification and Regression Trees](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/CART)
   * [Naive Bayes](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Naive-Bayes)
   * [Gaussian Naive Bayes](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Gaussian-Naive-Bayes)
-  * k-Nearest Neighbors
+  * [k-Nearest Neighbors](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/k-Nearest%20Neighbors)
   * Learning Vector Quantization
   * Support Vector Machines
 * Ensemble Algorithms
