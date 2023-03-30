@@ -5,14 +5,14 @@ This is to practice the machine learning algorithms mentioned in the book [Maste
 * [Linear Algorithms](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms)
   * [Linear Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Linear-Regression)
   * [Logistic Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Logistic-Regression)
-  * [Linear Discriminant Analysis](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/LDA)
+  * [Linear Discriminant Analysis (LDA)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/LDA)
 * [Nonlinear Algorithms](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms)
-  * [Classification and Regression Trees](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/CART)
+  * [Classification and Regression Trees (CART)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/CART)
   * [Naive Bayes](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Naive-Bayes)
-  * [Gaussian Naive Bayes](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Gaussian-Naive-Bayes)
-  * [k-Nearest Neighbors](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/k-Nearest%20Neighbors)
-  * Learning Vector Quantization
-  * Support Vector Machines
+  * [Gaussian Naive Bayes (GNB)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Gaussian-Naive-Bayes)
+  * [*k*-Nearest Neighbors (*k*NN)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/k-Nearest%20Neighbors)
+  * Learning Vector Quantization (LVQ)
+  * Support Vector Machines (SVM)
 * Ensemble Algorithms
   * Bagging and Random Forest
   * Boosting and AdaBoost
