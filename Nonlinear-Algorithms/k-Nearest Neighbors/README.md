@@ -14,6 +14,7 @@ Neighbor is a record that has similar predictor values to another record. The Di
 $$Euclidean Distance (a,b) = \sqrt{\sum_{i=1}^{n}(a_i - b_i)^2}$$
 
 Formula for Euclidean distance, derived from the Pythagorean theorem. With this formula, you can calculate the nearness of all the training data points to the data point you’re trying to label, and take the mean/mode of the k nearest neighbors to make your prediction [5].
+
 ---
 ## References
 
