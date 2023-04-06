@@ -1,6 +1,6 @@
 # Master Machine Learning Algorithms 📕
 
-This is to practice the machine learning algorithms mentioned in the book [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/) by Jason Brownlee.
+This is to practice the machine learning algorithms mentioned in the book [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/) by Jason Brownlee. I'll first manually implement the algorithms using a generated sample data, then apply the related function from `sklearn` library, and finally apply that function to a sample previously collected dataset. The organization of this repository as follows:  
 
 * [Linear Algorithms](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms)
   * [Linear Regression](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Linear-Algorithms/Linear-Regression)
