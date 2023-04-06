@@ -1,5 +1,7 @@
 # Nonlinear Algorithms
 
+<img src='non-linear-data.png' align='right' width=450/>
+
 Nonlinear algorithms assumes a nonlinear relationship between features and label. Thus, $f(x)$ can by a function of arbitrary complexity. The known algorithms are:
 
 * Classification and Regression Trees (CART)
