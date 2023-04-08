@@ -6,9 +6,9 @@ In computer science, learning vector quantization (LVQ) is a prototype-based sup
 
 A codebook vector is a list of numbers that have the same input and output attributes as your training data. The model representation is a fixed pool of codebook vectors, learned from the training data. They look like training instances, but the values of each attribute have been adapted based on the learning procedure. In the language of neural networks, each codebook vector may be called a neuron, each attribute on a codebook vector is called a weight and the collection of codebook vectors is called a network [3].
 
-$$Euclidean Distance (a,b) = \sqrt{\sum_{i=1}^{n}(a_i - b_i)^2}$$
+Predictions are made for a new instance by searching through all codebook vectors for the $k$ most similar instances and summarizing the output variable for those $k$ instances. For classification this is the mode (or most common) class value. Typically predictions are made with $k$ = 1, and the codebook vector that matches is called the Best Matching Unit (BMU). To calculate the most similar unit, we need a distance measure.
 
-Predictions are made for a new instance by searching through all codebook vectors for the $k$ most similar instances and summarizing the output variable for those k instances. For classification this is the mode (or most common) class value. Typically predictions are made with $k$ = 1, and the codebook vector that matches is called the Best Matching Unit (BMU).
+$$Euclidean Distance (a,b) = \sqrt{\sum_{i=1}^{n}(a_i - b_i)^2}$$
 
 The amount that the vector is moved is controlled by an algorithm parameter called the learning rate ($LearningRate$). For example, the input variable ($x$) of a codebook vector is moved closer to the training input value ($t$) by the amount in the LearningRate if the classes match as follows:
 
