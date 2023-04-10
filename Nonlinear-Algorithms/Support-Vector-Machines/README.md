@@ -33,7 +33,7 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
   <img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
 </p>
 <p align="center">
-    Figure 2: Different Kernels
+    Figure 2: [Different Kernels](https://scikit-learn.org/stable/modules/svm.html)
 </p>
 
 
@@ -44,4 +44,3 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
 
 Image is from [Support Vector Machine (SVM)](https://nl.mathworks.com/discovery/support-vector-machine.html) artical of MathWorks.
-Kernels image is from [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
