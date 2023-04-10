@@ -1,12 +1,6 @@
 # Support Vector Machines (SVM)
 
-<p align = "right">
-  <img src='svm.jpeg' align='right' width=350 alt='Support Vector Machine' />
-</p>
-<p align = "right">
-  Figure caption
-</p>
-
+<img src='svm.jpeg' align='right' width=350 alt='Support Vector Machine' />
 
 In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis [1]. Before going deep in SVM, there are 2 things that must be learned.
 
@@ -37,6 +31,9 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
 <p align="center">
   <img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
+</p>
+<p align="center">
+    Figure 2: Different Kernels
 </p>
 
 
