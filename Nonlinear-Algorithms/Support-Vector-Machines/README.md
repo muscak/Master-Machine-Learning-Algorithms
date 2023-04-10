@@ -16,6 +16,22 @@ Where $X_1$ and $X_2$ are the two input variables, $B_1$ and $B_2$ are the coeff
 
 ## 2. Soft Margin Classifier
 
+## 3. Kernels
+
+### 3.1. Linear Kernel SVM
+
+$$K(x, x_i) = \sum(x \times x_i)$$
+
+### 3.2. Polynomial Kernel SVM
+
+$$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
+
+### 3.3. Radial Kernel SVM
+K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}
+
+<img src='sphx_glr_plot_iris_svc_001.png' align='right' width=450 alt='Support Vector Machine - Kernels' />
+
+
 
 ## References
 ---
