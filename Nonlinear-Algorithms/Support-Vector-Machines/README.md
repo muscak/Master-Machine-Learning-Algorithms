@@ -2,7 +2,10 @@
 
 <p align = "right">
   <img src='svm.jpeg' align='right' width=350 alt='Support Vector Machine' />
-<p>
+</p>
+<p align = "right">
+  Figure caption
+</p>
 
 
 In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis [1]. Before going deep in SVM, there are 2 things that must be learned.
