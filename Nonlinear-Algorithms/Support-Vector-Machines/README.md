@@ -29,7 +29,7 @@ $$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
 ### 3.3. Radial Kernel SVM
 $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
-<img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
+<center><img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' /></center>
 
 
 
