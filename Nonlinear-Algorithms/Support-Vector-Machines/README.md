@@ -2,7 +2,19 @@
 
 <img src='svm.jpeg' align='right' width=350 alt='Support Vector Machine' />
 
-In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis [1].
+In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis [1]. Before going deep in SVM, there are 2 things that must be learned.
+
+## 1. Maximal-Margin Classifier
+
+Maximal-Margin Classifier is a hypothetical classifier and it explain how SVM works. The features (inputs) in your data may form a n-dimensional space. 
+
+A hyperplane is a line that splits the input variable space by their classes. If the we have 2 inputs which mean that we have 2 dimentional space and the hyperplane can be visualized as a line as shown in the above image. This line can be defined as below formula:
+
+$$B_0 + (B_1 × X_1) + (B_2 × X_2) = 0$$
+
+Where $X_1$ and $X_2$ are the two input variables, $B_1$ and $B_2$ are the coefficients that determine the slope of the line and $B_0$ the intercept. The coefficients and the intercept are found by the learning algorithm.
+
+## 2. Soft Margin Classifier
 
 
 ## References
