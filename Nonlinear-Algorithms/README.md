@@ -13,4 +13,4 @@ Nonlinear algorithms assumes a nonlinear relationship between features and label
 
 
 ---
-[1][Machine Learning Basics](https://blogs.fu-berlin.de/reseda/machine-learning-basics/#:~:text=This%20differentiation%20is%20straightforward%3A,relationship%20between%20x%20and%20y.)
+[1] [Machine Learning Basics](https://blogs.fu-berlin.de/reseda/machine-learning-basics/#:~:text=This%20differentiation%20is%20straightforward%3A,relationship%20between%20x%20and%20y.)
