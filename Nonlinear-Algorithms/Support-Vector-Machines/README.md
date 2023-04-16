@@ -18,6 +18,8 @@ Where $X_1$ and $X_2$ are the two input variables, $B_1$ and $B_2$ are the coeff
 
 ## 3. Kernels
 
+In order to make the mathematics possible, Support Vector Machines use something called Kernel Functions to systematically find Support Vector Classifiers in higher dimensions [2].
+
 ### 3.1. Linear Kernel SVM
 
 $$K(x, x_i) = \sum(x \times x_i)$$
@@ -33,7 +35,7 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
   <img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
 </p>
 <p align="center">
-    Figure 2: Different Kernels [2]
+    Figure 2: Different Kernels [3]
 </p>
 
 
@@ -42,7 +44,9 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 ---
 [1] [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
-[2] [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
+[2] [Support Vector Machines Part 1 (of 3): Main Ideas!!!](https://www.youtube.com/watch?v=efR1C6CvhmE)
+
+[3] [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
 
 
 Image is from [Support Vector Machine (SVM)](https://nl.mathworks.com/discovery/support-vector-machine.html) artical of MathWorks.
