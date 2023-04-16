@@ -18,7 +18,7 @@ So Maximal Margin Classifiers are super sensitive to outliers in the training da
 
 ## 2. Soft Margin Classifier
 
-Choosing a threshold that allows misclassifications is an example of the Bias/Variance Tradeoff that plagues all of machine learning. When we allow misclassifications, the distance between the observations and the threshold is called a Soft Margin [2].
+In practice, real data is messy and cannot be separated perfectly with a hyperplane. The constraint of maximizing the margin of the line that separates the classes must be relaxed [1]. Choosing a threshold that allows misclassifications is an example of the Bias/Variance Tradeoff that plagues all of machine learning. When we allow misclassifications, the distance between the observations and the threshold is called a Soft Margin [2].
 
 ## 3. Kernels
 
