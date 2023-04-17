@@ -12,7 +12,7 @@ This is to practice the machine learning algorithms mentioned in the book [Maste
   * [Gaussian Naive Bayes (GNB)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Gaussian-Naive-Bayes)
   * [*k*-Nearest Neighbors (*k*NN)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/k-Nearest%20Neighbors)
   * [Learning Vector Quantization (LVQ)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Learning-Vector-Quantization)
-  * Support Vector Machines (SVM)
+  * [Support Vector Machines (SVM)](https://github.com/muscak/Master-Machine-Learning-Algorithms/tree/master/Nonlinear-Algorithms/Support-Vector-Machines)
 * Ensemble Algorithms
   * Bagging and Random Forest
   * Boosting and AdaBoost
