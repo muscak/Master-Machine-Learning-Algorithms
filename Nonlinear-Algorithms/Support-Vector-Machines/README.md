@@ -21,17 +21,21 @@ In practice, real data is messy and cannot be separated perfectly with a hyperpl
 
 ## 3. Kernels
 
-In order to make the mathematics possible, Support Vector Machines use something called Kernel Functions to systematically find Support Vector Classifiers in higher dimensions [2].
+In order to make the mathematics possible, Support Vector Machines use something called Kernel Functions to systematically find Support Vector Classifiers in higher dimensions [2]. The kernel defines the similarity or a distance measure between new data and the support vectors [1].
 
 ### 3.1. Linear Kernel SVM
+The dot product is the similarity measure used for linear kernel because the distance is a linear combination of the inputs.
 
 $$K(x, x_i) = \sum(x \times x_i)$$
 
 ### 3.2. Polynomial Kernel SVM
+Another kernel method is polynomial one which allows for curved lines in the input space. If $d=1$, this is the same as linear kernel.
 
 $$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
 
 ### 3.3. Radial Kernel SVM
+The radial kernel is very local and can create complex regions within the feature space, like closed polygons in a two-dimensional space.
+
 $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
 In the below image, you can see the comparison of the different kernels using the Iris dataset.
