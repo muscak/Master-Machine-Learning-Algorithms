@@ -1,6 +1,6 @@
 # Support Vector Machines (SVM)
 
-<table style="border: 0px">
+<table style="border-style: none">
   <tr valigh='top'>
     <td width='70%'>
       In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis [1]. Before going deep in SVM, there are 2 things that must be learned.
