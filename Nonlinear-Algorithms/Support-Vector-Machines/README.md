@@ -40,7 +40,7 @@ Another kernel method is polynomial one which allows for curved lines in the inp
 $$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
 
 ### 3.3. Radial Kernel SVM
-The radial kernel is very local and can create complex regions within the feature space, like closed polygons in a two-dimensional space.
+The radial kernel is very local and can create complex regions within the feature space, like closed polygons in a two-dimensional space [1]. It uses infinite dimensions for classification. It behaves like weighted nearest neighbor model. The closest observations (nearest neighbors) have a lot of influence on classifying the new observations [2]. 
 
 $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
@@ -52,6 +52,8 @@ In the below image, you can see the comparison of the different kernels using th
 <p align="center">
     <b>Fig. 2: Different Kernels [3]</b>
 </p>
+
+In summary, when we have 2 classes, but no obvious linear classifier that seperates them in a nice way, SVM work by moving the data into a relatively high dimensional space and finding a relatively high dimensional Support Vector Classifier that can effectively classify the observations. 
 
 ## References
 
