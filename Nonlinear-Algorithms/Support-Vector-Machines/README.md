@@ -8,6 +8,7 @@ In machine learning, support vector machines (SVMs, also support vector networks
 <p align="center">
     <b>Fig. 1: Support Vector Machines [4]</b>
 </p>
+
 ## 1. Maximal-Margin Classifier
 
 Maximal-Margin Classifier is a hypothetical classifier and it explain how SVM works. The features (inputs) in your data may form a n-dimensional space. 
@@ -51,8 +52,6 @@ In the below image, you can see the comparison of the different kernels using th
 <p align="center">
     <b>Fig. 2: Different Kernels [3]</b>
 </p>
-
-
 
 ## References
 
