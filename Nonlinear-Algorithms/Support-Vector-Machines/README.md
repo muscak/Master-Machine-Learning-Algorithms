@@ -34,11 +34,13 @@ $$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
 ### 3.3. Radial Kernel SVM
 $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
+In the below image, you can see the comparison of the different kernels using the Iris dataset.
+
 <p align="center">
   <img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
 </p>
 <p align="center">
-    Fig. 2: Different Kernels [3]
+    <b>Fig. 2: Different Kernels [3]</b>
 </p>
 
 
