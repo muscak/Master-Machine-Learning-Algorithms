@@ -2,8 +2,8 @@
 
 
 <figure>
-  <img src='svm.jpeg' width='350' alt='Support Vector Machines' align='right'/>
-  <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+  <img src='svm.jpeg' width='350' alt='Support Vector Machines' />
+  <figcaption align = "center"><b>Fig.1: Support Vector Machines</b></figcaption>
 </figure>
 
 
@@ -45,7 +45,7 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
   <img src='sphx_glr_plot_iris_svc_001.png' width=550 align='center' alt='Support Vector Machine - Kernels' />
 </p>
 <p align="center">
-    Figure 2: Different Kernels [3]
+    Fig. 2: Different Kernels [3]
 </p>
 
 
