@@ -53,7 +53,7 @@ In the below image, you can see the comparison of the different kernels using th
     <b>Fig. 2: Different Kernels [3]</b>
 </p>
 
-In summary, when we have 2 classes, but no obvious linear classifier that seperates them in a nice way, SVM work by moving the data into a relatively high dimensional space and finding a relatively high dimensional Support Vector Classifier that can effectively classify the observations. 
+In summary, when we have 2 classes, but no obvious linear classifier that seperates them in a nice way, **SVM** work by moving the data into a relatively high dimensional space and finding a relatively high dimensional **Support Vector Classifier** that can effectively classify the observations [2]. 
 
 ## References
 
