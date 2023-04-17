@@ -56,7 +56,7 @@ $$K(x, x_i) = e^{-\gamma \times \sum(x - x_i)^2}$$
 
 
 ## References
----
+
 [1] [Support vector machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
 [2] [Support Vector Machines Part 1 (of 3): Main Ideas!!!](https://www.youtube.com/watch?v=efR1C6CvhmE)
