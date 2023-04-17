@@ -5,9 +5,15 @@ An ensemble comprises of a set of independently trained classifiers whose predic
 2. Boosting
 3. Stacking
 
-<p>
-<img src='bagging.png' align='left' width=350> <img src='boosting.png' align='right' width=350>
-</p>
+## 1. Bagging
+
+<img src='bagging.png' align='left' width=450>
+Bootstrap Aggregating, also known as bagging.
+
+## 2. Boosting
+
+<img src='boosting.png' align='right' width=450>
+
 
 ## References
 [1] [Comparative Analysis of Linear, Non Linear and Ensemble Machine Learning Algorithms for Credit Worthiness of Consumers](https://www.researchgate.net/publication/335716566_Comparative_Analysis_of_Linear_Non_Linear_and_Ensemble_Machine_Learning_Algorithms_for_Credit_Worthiness_of_Consumers)
