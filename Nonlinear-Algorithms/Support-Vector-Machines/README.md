@@ -35,7 +35,7 @@ The dot product is the similarity measure used for linear kernel because the dis
 $$K(x, x_i) = \sum(x \times x_i)$$
 
 ### 3.2. Polynomial Kernel SVM
-Another kernel method is polynomial one which allows for curved lines in the input space. If $d=1$, this is the same as linear kernel.
+Another kernel method is polynomial one which allows for curved lines in the input space. If $d=1$, this is the same as linear kernel. It computes relationships between pairs of observations. $x$ and $x_i$ refer to the two observations we want to calculate the high dimensional relationship for. And $d$ determines the degree of polynomial which is determined using cross validation.
 
 $$K(x, x_i) = 1 + \sum(x \times x_i)^d$$
 
