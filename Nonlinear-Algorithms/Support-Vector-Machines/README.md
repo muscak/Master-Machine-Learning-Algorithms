@@ -3,7 +3,7 @@
 
 <figure>
   <img src='svm.jpeg' width='350' alt='Support Vector Machines' />
-  <figcaption align="center"><b>Fig.1: Support Vector Machines</b></figcaption>
+  <figcaption align="center"><b>Fig.1: Support Vector Machines [4]</b></figcaption>
 </figure>
 
 
