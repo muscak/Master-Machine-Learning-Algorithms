@@ -14,7 +14,7 @@ The next step is aggregating the output of each bootstrap. If it's a classificat
 
 <img src='random_forest.png' align='left' width=450 alt='Random Forest Diagram'>
 
-In random forest , the same principle of bagging is used, but with an additional randomization step. In addition to randomly sampling the training data, random forest also randomly selects a subset of the features at each split of the decision tree. This feature sampling helps to further decorrelate the trees and increase the diversity of the ensemble.
+In random forest , the same principle of bagging is used, but with an additional randomization step. In addition to randomly sampling the training data, random forest also randomly selects a subset of the features at each split of the decision tree. This feature sampling helps to further decorrelate the trees and increase the diversity of the ensemble [3].
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
@@ -23,3 +23,5 @@ In random forest , the same principle of bagging is used, but with an additional
 [1] [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
 
 [2] [Bagging Decision Trees — Clearly Explained](https://towardsdatascience.com/bagging-decision-trees-clearly-explained-57d4d19ed2d3)
+
+[3] [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
