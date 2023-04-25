@@ -12,7 +12,7 @@ The next step is aggregating the output of each bootstrap. If it's a classificat
 
 ## Random Forest
 
-<img src='randomforest.png' align='left' width=450 alt='Random Forest Diagram'>
+<img src='random_forest.png' align='left' width=450 alt='Random Forest Diagram'>
 
 In random forest , the same principle of bagging is used, but with an additional randomization step. In addition to randomly sampling the training data, random forest also randomly selects a subset of the features at each split of the decision tree. This feature sampling helps to further decorrelate the trees and increase the diversity of the ensemble.
 
