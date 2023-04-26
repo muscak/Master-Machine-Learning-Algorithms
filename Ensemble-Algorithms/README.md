@@ -10,7 +10,12 @@ An ensemble comprises of a set of independently trained classifiers whose predic
 
 In our study we'll cover the first two types of ensemble algorithms.
 
-<img src='bagging_vs_boosting.jpg' alt='Bagging vs. Boosting' align='center' width=450>
+<p align="center">
+  <img src='bagging_vs_boosting.jpg' alt='Bagging vs. Boosting' width=500>
+</p>
+<p align="center">
+  Bagging vs. Boosting [3]
+</p>
 
 ## References
 
